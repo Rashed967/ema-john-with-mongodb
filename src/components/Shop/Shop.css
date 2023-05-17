@@ -31,3 +31,7 @@
     padding: 20px;
     margin: 0 20px;
 }
+
+.pagination .selected {
+    background-color: orange;
+}
