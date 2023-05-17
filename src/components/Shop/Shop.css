@@ -25,3 +25,9 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.pagination{
+    text-align: center;
+    padding: 20px;
+    margin: 0 20px;
+}
